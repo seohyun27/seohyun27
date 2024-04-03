@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+
+I'm Seohyun Kim. I am a student at **Yeungnam University** in Korea. I am currently learning computer engineering. The programming languages I have learned so far are Python, C and C++.
+
+
 
 <!--
 **SeohyunKim0207/SeohyunKim0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
