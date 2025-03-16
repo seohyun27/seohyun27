@@ -1,8 +1,11 @@
 ### Hi there!✨
 
-I'm Seohyun Kim. I am a student at **Yeungnam University** in Korea. I am currently learning📚 computer engineering. The programming languages I have learned so far are Python, C and C++. I am interested in AI and IoT. 
+I'm Seohyun Kim, a student at **Yeungnam University** in Korea. I'm currently studying📚 computer engineering. So far, I've learned programming languages such as Python, C, C++ and Java. I'm especially interested in algorithms and web programming.
+
+My dream is to become a developer who collaborates with people from various fields and exchanges diverse perspectives. I'm always open to connecting and communicating with others!🌱🌱
 
 E-mail : canna7610@gmail.com
+
 
 
 <!--
