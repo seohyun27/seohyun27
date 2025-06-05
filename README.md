@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=200&section=header&text=seohyun27's%20GitHub&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A1D1,A7D8FF&height=200&section=header&text=seohyun27's%20GitHub&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 ---
@@ -22,5 +22,5 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=tokyonight" />
 </p>
