@@ -1,7 +1,7 @@
-<h1 align="center">✨ Seohyun's GitHub ✨</h1>
+<h1 align="center"> Seohyun's GitHub </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hello!+I'm+username;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seohyun's%20GitHub&fontSize=50&animation=fadeIn&fontColor=white"/>
 </p>
 
 ---
@@ -24,9 +24,9 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=radical" />
 </p>
