@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EB1,50:B39CD0,100:98D6EA&height=300&section=header&text=Seohyun's%20GitHub&fontColor=ffffff" alt="header">
 </div>
 
----
+
 
 # 📚 Languages & Tools I use
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 # 📊 My GitHub Stats
 
