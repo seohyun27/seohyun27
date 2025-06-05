@@ -1,24 +1,32 @@
-### Hi there!✨
+<h1 align="center">✨ Seohyun's GitHub ✨</h1>
 
-I'm Seohyun Kim, a student at **Yeungnam University** in Korea. I'm currently studying📚 computer engineering. So far, I've learned programming languages such as Python, C, C++ and Java. I'm especially interested in algorithms and web programming.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Hello!+I'm+username;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
-My dream is to become a developer who collaborates with people from various fields and exchanges diverse perspectives. I'm always open to connecting and communicating with others!🌱🌱
+---
 
-E-mail : canna7610@gmail.com
+## 📚 Languages & Tools I use
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+---
 
-<!--
-**SeohyunKim0207/SeohyunKim0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" />
+</p>
