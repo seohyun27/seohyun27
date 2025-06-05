@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A1D1,EF9FF0,A7D8FF&height=200&section=header&text=seohyun27's%20GitHub&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seohyun's%20GitHub" alt="header">
+</div>
 
 ---
 
