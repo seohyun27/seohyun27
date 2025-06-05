@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seohyun's%20GitHub" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(to right, #00c6ff, #0072ff)&height=300&section=header&text=Seohyun's%20GitHub" alt="header">
 </div>
 
 ---
