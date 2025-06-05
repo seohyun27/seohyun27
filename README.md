@@ -1,7 +1,5 @@
-<h1 align="center"> Seohyun's GitHub </h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seohyun's%20GitHub&fontSize=50&animation=fadeIn&fontColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=200&section=header&text=seohyun27's%20GitHub&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 ---
@@ -24,9 +22,5 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=rose_pine" />
 </p>
