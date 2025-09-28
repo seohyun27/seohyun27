@@ -26,6 +26,6 @@
 # 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=solarized_light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=solarized_light" />
 </p>
