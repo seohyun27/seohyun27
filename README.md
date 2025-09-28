@@ -4,7 +4,7 @@
 
 
 
-# 📚 Languages & Tools I use
+# 📚 Languages & Tools I'm learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,5 +26,6 @@
 # 📊 My GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=dark" />
 </p>
