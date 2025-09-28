@@ -26,6 +26,6 @@
 # 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=catppuccin_frappe" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=catppuccin_frappe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seohyun27&show_icons=true&theme=catppuccin_latte" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun27&layout=compact&theme=catppuccin_latte" />
 </p>
