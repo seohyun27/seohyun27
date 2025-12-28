@@ -40,6 +40,7 @@
 
 ## 📚 Study & Knowledge
 * **[UMC Study Notes Archive](https://github.com/seohyun27/umc-study-note)**: 중앙 워크북 기반 핵심 개념 요약 및 멘토링 자료
+* **[CS Deep Dive Reports](https://github.com/seohyun27/cs-deep-dive-archive)**: 운영체제/컴퓨터구조 심화 보고서 (OS, Cache, Memory 등)
 
 <br/>
 
