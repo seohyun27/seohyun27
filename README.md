@@ -29,6 +29,8 @@
 <br/>
 
 ## 🏆 Featured Projects
+> **"혼자보다 함께할 때 더 멀리 간다"**<br>
+> 팀의 목표를 최우선으로 **적극적인 리딩**과 **원활한 소통**을 통해 서비스와 스터디를 완성해 온 기록입니다.
 
 | Project & Role | Description & Tech Stack | Key Achievements |
 | :--- | :--- | :--- |
@@ -38,7 +40,20 @@
 
 <br/>
 
+## 💡 Engineering Foundation
+> **"프레임워크 없이 구조의 필요성을 깨닫다"**<br>
+> 웹 개발 학습 전, 순수 Java Swing으로 구현하며 **MVC 패턴**과 **Client-Server 구조**를 독자적으로 도출해낸 프로젝트입니다.
+
+| Project | Architectural Insight (Why & How) |
+| :--- | :--- |
+| **[Customer Tracking System](https://github.com/seohyun27/customer-tracking.git)**<br>*(Java Swing, Simulated Server)* | • **MVC 패턴의 발견**: 코드 복잡도 해결을 위해 `MainControl`(Router), `View`, `Domain`으로 역할을 분리<br>• **Client-Server 구조 설계**: 데이터 중앙 관리의 필요성을 느껴 로컬 환경 내 가상 서버(`Server.java`) 구현<br>• **데이터 설계**: `String`↔`int` 변환 클래스를 설계하여 DB 인덱싱과 유사한 데이터 최적화 경험 |
+
+<br/>
+
 ## 📚 Study & Knowledge
+> **"기록하지 않은 지식은 내 것이 아니다"**<br>
+> 학습한 내용을 내 언어로 정리하여 **기본기(CS)**를 다지고 **기술의 깊이(Deep Dive)**를 더합니다.
+
 * **[UMC Study Notes Archive](https://github.com/seohyun27/umc-study-note)**: 중앙 워크북 기반 핵심 개념 요약 및 멘토링 자료
 * **[CS Deep Dive Reports](https://github.com/seohyun27/cs-deep-dive-archive)**: 운영체제/컴퓨터구조 심화 보고서 (OS, Cache, Memory 등)
 
