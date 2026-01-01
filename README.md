@@ -46,7 +46,7 @@
 
 | Project | Architectural Insight (Why & How) |
 | :--- | :--- |
-| **[Customer Tracking System](https://github.com/seohyun27/customer-tracking.git)**<br>*(Java Swing, Simulated Server)* | • **MVC 패턴의 발견**: 코드 복잡도 해결을 위해 `MainControl`(Router), `View`, `Domain`으로 역할을 분리<br>• **Client-Server 구조 설계**: 데이터 중앙 관리의 필요성을 느껴 로컬 환경 내 가상 서버(`Server.java`) 구현<br>• **데이터 설계**: `String`↔`int` 변환 클래스를 설계하여 DB 인덱싱과 유사한 데이터 최적화 경험 |
+| **[Customer Tracking System](https://github.com/seohyun27/customer-tracking.git)**<br>*(Java Swing, Simulated Server)* | • **MVC 패턴의 발견**: 코드 복잡도 해결을 위해 `MainControl`(Router), `View`, `Domain`으로 역할을 분리<br>• **Client-Server 구조 설계**: 데이터 중앙 관리의 필요성을 느껴 로컬 환경 내 가상 서버(`Server.java`) 구현<br>• **데이터 설계**: `String`↔`int` 변환 클래스를 설계하여 DB 인덱싱과 유사한 데이터 최적화 경험<br>• **결과**: [시연 영상 보기](https://drive.google.com/file/d/1G7gNC6YPThfDiN8dcv6-2BeIRPUZd_cQ/view?usp=drive_link)|
 
 <br/>
 
