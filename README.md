@@ -59,6 +59,8 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Uber_H3-000000?style=flat-square&logo=uber&logoColor=white"/>
+<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 야외 축제장의 **실시간 인파 혼잡도**를 집계해 히트맵으로 제공하는 위치 기반 서비스입니다. 수천 명 동시 접속 환경의 트래픽 처리가 핵심 과제였습니다.
 
