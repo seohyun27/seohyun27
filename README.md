@@ -65,7 +65,7 @@
 야외 축제장의 **실시간 인파 혼잡도**를 집계해 히트맵으로 제공하는 위치 기반 서비스입니다. 수천 명 동시 접속 환경의 트래픽 처리가 핵심 과제였습니다.
 
 - **Redis Geo 기반 위치 처리**: 초당 갱신되는 위치 데이터를 RDB 대신 In-Memory Geo 구조로 처리해 `O(1)~O(logN)`으로 최적화, Expire 기반 Heartbeat 미응답자 자동 제외
-- **Uber H3 공간 집계**: 좌표를 육각형 그리드로 사전 집계해 프론트엔드 전송량 90% 이상 절감
+- **Uber H3 공간 집계**: 좌표를 육각형 그리드로 사전 집계해 프론트엔드 전송량 약 52~76% 절감
 - **NCP 기반 인프라 설계**: VPC로 DB/스토리지는 Private Subnet, API·Redis는 Public Subnet에 분리해 최소 권한 원칙 기반 네트워크 설계
 
 🔗 GitHub: [바로가기](https://github.com/wagle-project/wagle-server)
